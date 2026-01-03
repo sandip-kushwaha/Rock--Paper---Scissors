@@ -35,7 +35,7 @@ h1{
 .choice:hover{
     cursor: pointer;
     background-image: linear-gradient(90deg, #412785 50%, #be355e 100%);
-    /* background-color: #0c013b; */
+    
 }
 .choice img{
     width: 100px;
@@ -89,3 +89,4 @@ footer{
     margin-left: 1rem;
     margin-top: 5rem;
 }
+
